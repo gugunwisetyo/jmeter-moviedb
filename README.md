@@ -5,7 +5,6 @@ https://github.com/gugunwisetyo/jmeter-moviedb/assets/145990500/0055a216-0d46-49
 
 upload from youtube
 
-[![Watch the video](https://img.youtube.com/vi/Fm5H1cGzQSU/hqdefault.jpg)](https://www.youtube.com/embed/Fm5H1cGzQSU)
-
 [<img src="https://img.youtube.com/vi/Fm5H1cGzQSU/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/Fm5H1cGzQSU)
+
